@@ -36,7 +36,7 @@ Run Locally:
 
 ```bash
 git clone 
-cd 
+cd Personal-Portfolio-Website
 open index.html in your browser
 ````
 
@@ -48,7 +48,7 @@ Feel free to fork the repo and enhance the UI, add new features, or fix bugs.
 Author:
 Amarnath
 baduguamarnath92@gmail.com
-GitHub Profile: 
+GitHub Profile: https://github.com/Amarnath-coder405/Personal-Portfolio-Website/blob/portfolio-website-dev/index.html
 
 If you liked this project, don’t forget to give it a **star** on GitHub!
 
