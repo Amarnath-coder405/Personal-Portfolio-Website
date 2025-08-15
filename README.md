@@ -35,7 +35,7 @@ Portfolio Website/
 Run Locally:
 
 ```bash
-git clone 
+git clone https://github.com/Amarnath-coder405/Personal-Portfolio-Website
 cd Personal-Portfolio-Website
 open index.html in your browser
 ````
@@ -51,6 +51,3 @@ baduguamarnath92@gmail.com
 GitHub Profile: https://github.com/Amarnath-coder405/Personal-Portfolio-Website/blob/portfolio-website-dev/index.html
 
 If you liked this project, don’t forget to give it a **star** on GitHub!
-
-
-
